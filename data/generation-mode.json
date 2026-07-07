@@ -1,4 +1,5 @@
 {
-  "mode": "custom-site",
-  "scaffoldIsFinal": false
+  "mode": "blank-scaffold",
+  "scaffoldIsFinal": false,
+  "placeholderMarker": ""
 }
